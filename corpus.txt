@@ -1,0 +1,261 @@
+A-b-r-a-m-s ey+1 0 b 1 r 2 ax 3 e 3 m 4 z 5 //
+A-d-m-i-r-e-r-s ae 0 d 1 m 2 ay+1 3 ax 3 r 4 ax 5 r 6 z 7 //
+A-ll ao 0 ao+1 0 l 1 //
+A-p-r-i-l ey+1 0 p 1 r 2 ih 3 ax 3 l 4 //
+A-sh ae+1 0 ae 0 sh 1 //
+A-tt-o-r-n-ey ax 0 t 1 ah+1 2 r 3 n 4 nx 4 iy 5 //
+B-a-r b 0 aa+1 1 aa 1 r 2 //
+C-ou-n-c-i-l k 0 aw+1 1 n 2 s 3 ax 4 e 4 l 5 //
+D-e-m-o-c-r-a-t-i-c d 0 eh+1 1 eh 1 m 2 ax 3 k 4 r 5 ae+1 6 dx 7 t 7 ih 8 ax 8 k 9 //
+D-e-s-p-i-t-e d 0 ih 1 ax 1 s 2 p 3 ay+1 4 t 5 //
+D-u-k-a-k-i-s d 0 uw 1 k 2 aa+1 3 k 4 ih 5 ax 5 s 6 //
+E-d-w-a-r-d eh+1 0 d 1 w 2 ax 3 e 3 r 4 d 5 //
+F-e-d-e-r-a-l f 0 eh+1 1 dx 2 d 2 ax 3 e 3 r 4 ax 5 e 5 l 6 //
+F-o-r f 0 ao 1 ao+1 1 r 2 //
+G-o-v-e-r-n-o-r g 0 ah+1 1 v 2 ax 3 e 3 r 4 n 5 ax 6 e 6 r 7 //
+H-a-s-k-e-l hh 0 ae+1 1 s 2 k 3 ax 4 e 4 l 5 //
+H-e-nn-e-ss-y hh 0 eh+1 1 n 2 nx 2 ax 3 s 4 iy 5 //
+H-o-l-d-i-ng hh 0 ow+1 1 l 2 dx 3 d 3 ih 4 ax 4 ng 5 //
+I-f ih 0 ax 0 ih+1 0 f 1 //
+I-n ih 0 ax 0 ih+1 0 n 1 //
+I-t ih 0 ax 0 ih+1 0 t 1 //
+J-u-d-i-ci-a-l jh 0 uw 1 d 2 ih+1 3 sh 4 ax 5 e 5 l 6 //
+J-u-s-t-i-c-e jh 0 ah+1 1 s 2 d 3 t 3 ih 4 ax 4 s 5 //
+J-u-s-t-i-c-e-s jh 0 ah+1 1 s 2 d 3 t 3 ih 4 ax 4 s 5 ax 6 z 7 //
+K-a-ss-l-e-r k 0 ae+1 1 s 2 l 3 ax 4 e 4 r 5 //
+K-i-ng k 0 ih+1 1 ih 1 ng 2 //
+M-a-ff-y m 0 ae+1 1 f 2 iy 3 //
+M-a-r-ch m 0 aa+1 1 aa 1 r 2 ch 3 //
+M-a-ss-a-ch-u-s-e-tt-s m 0 ae+1 1 ae 1 s 2 ax 3 ch 4 uw+1 5 s 6 ih 7 ax 7 t 8 s 9 //
+N-o-m-i-n-a-t-i-ng n 0 aa+1 1 m 2 ax 3 e 3 n 4 ey+1 5 ey 5 dx 6 t 6 ih 7 ax 7 ng 8 //
+S-a-r-g-e-n-t s 0 aa+1 1 r 2 jh 3 ax 4 e 4 n 5 t 6 //
+S-t-a-t-e s 0 t 1 ey+1 2 ey 2 t 3 //
+S-u-ch s 0 ah+1 1 ah 1 ch 2 //
+S-u-p-r-e-m-e s 0 ax 1 p 2 r 3 iy+1 4 m 5 //
+Th-a-t dh 0 ae 1 ae+1 1 t 2 //
+Th-o-s-e dh 0 ow 1 ow+1 1 z 2 //
+U-n-i-v-e-r-s-i-t-y yuw+1 0 uw 0 n 1 nx 1 ax 2 v 3 ah+1 4 r 5 s 6 ih 7 ax 7 dx 8 t 8 iy 9 //
+W-a-n-t-e-d w 0 aa+1 1 n 2 nx 2 t 3 ax 4 d 5 //
+a ax 0 ah 0 ey 0 ey+1 0 //
+a-b-i-l-i-t-ie-s ax 0 b 1 ih+1 2 l 3 ax 4 dx 5 t 5 iy 6 z 7 //
+a-b-o-v-e ax 0 b 1 ah+1 2 v 3 //
+a-b-ou-t ax 0 b 1 aw+1 2 t 3 //
+a-c-t ae+1 0 ae 0 k 1 t 2 //
+a-cc-o-r-d-i-ng ax 0 k 1 ao+1 2 r 3 dx 4 d 4 ih 5 ax 5 ng 6 //
+a-d-m-i-n-i-s-t-r-a-t-i-v-e ae 0 d 1 m 2 ih+1 3 n 4 nx 4 ax 5 ih 5 s 6 t 7 r 8 ax 9 ey+1 9 ey 9 dx 10 t 10 ih 11 ax 11 v 12 //
+a-d-m-i-n-i-s-t-r-a-ti-o-n ae 0 d 1 m 2 ih+1 3 ih 3 n 4 nx 4 ih 5 ax 5 s 6 t 7 r 8 ey+1 9 sh 10 ax 11 n 12 //
+a-g-e ey+1 0 ey 0 jh 1 //
+a-g-e-n-d-a ax 0 jh 1 eh+1 2 n 3 d 4 ax 5 //
+a-g-o ax 0 g 1 ow+1 2 //
+a-g-r-ee-s ax 0 g 1 r 2 iy+1 3 z 4 //
+a-l-a-r-m ax 0 l 1 aa+1 2 r 3 m 4 //
+a-l-o-ng ax 0 l 1 ao+1 2 ng 3 //
+a-l-t-e-r-n-a-t-i-v-e ao 0 l 1 t 2 ah+1 3 er+1 3 r 4 n 5 nx 5 ax 6 dx 7 t 7 ih 8 ax 8 v 9 //
+a-l-th-ou-gh ao 0 l 1 dh 2 ow+1 3 //
+a-ll-o-w ax 0 l 1 aw+1 2 //
+a-n ax 0 ae 0 ae+1 0 n 1 //
+a-n-d ae 0 ae+1 0 n 1 d 2 //
+a-n-o-t-h-e-r ax 0 n 1 ah+1 2 dh 3 ax 4 e 4 r 5 //
+a-n-s-w-e-r-s ae+1 0 n 1 s 2 ax 4 e 4 r 5 z 6 //
+a-pp-l-i-c-a-n-t-s ae+1 0 p 1 l 2 ax 3 k 4 ax 5 e 5 n 6 t 7 s 8 //
+a-pp-oi-n-t-e-d ax 0 p 1 oy+1 2 n 3 nx 3 t 4 ih 5 ax 5 d 6 //
+a-pp-oi-n-t-ee ax 0 p 1 oy+1 2 oy 2 n 3 t 4 iy+1 5 //
+a-pp-oi-n-t-ee-s ax 0 p 1 oy+1 2 oy 2 n 3 nx 3 t 4 iy 5 iy+1 5 z 6 //
+a-pp-oi-n-t-m-e-n-t ax 0 p 1 oy+1 2 n 3 t 4 m 5 ax 6 e 6 n 7 t 8 //
+a-pp-oi-n-t-m-e-n-t-s ax 0 p 1 oy+1 2 n 3 t 4 m 5 ax 6 e 6 n 7 t 8 s 9 //
+a-pp-r-o-v-a-l ax 0 p 1 r 2 uw+1 3 v 4 ax 5 e 5 l 6 //
+a-r-e aa 0 aa+1 0 r 2 //
+a-s ae 0 ae+1 0 z 1 //
+a-ss-o-c-i-a-ti-o-n ax 0 s 1 ow+1 2 ow 2 s 3 iy 4 ey+1 5 sh 6 ax 7 e 7 n 8 //
+a-ss-o-c-i-a-ti-o-n-s ax 0 s 1 ow+1 2 ow 2 s 3 iy 4 ey+1 5 sh 6 ax 7 e 7 n 8 z 9 //
+a-ss-o-ci-a-t-e ax 0 s 1 ow+1 2 sh 3 iy 4 ih 4 ax 4 t 5 //
+a-t ae 0 ae+1 0 t 1 //
+a-tt-a-ch-e-d ax 0 t 1 ae+1 2 ch 3 t 5 //
+a-tt-o-r-n-ey-s ax 0 t 1 ah+1 2 r 3 n 4 nx 4 iy 5 z 6 //
+au-th-o-r ao+1 0 th 1 ax 2 e 2 r 3 //
+b-a-d b 0 ae+1 1 ae 1 d 2 //
+b-e b 0 iy 1 iy+1 1 //
+b-e-c-o-m-e b 0 ih 1 ax 1 iy 1 k 2 ah+1 3 m 4 //
+b-e-f-o-r-e b 0 ih 1 ax 1 iy 1 f 2 ao+1 3 ao 3 r 4 //
+b-e-g-a-n b 0 ih 1 ax 1 iy 1 g 2 ae+1 3 n 4 //
+b-e-n-ch b 0 eh+1 1 eh 1 n 2 ch 3 //
+b-i-g b 0 ih+1 1 ih 1 g 2 //
+b-r-ea-k-i-ng b 0 r 1 ey+1 2 k 3 ih 4 ax 4 ng 5 //
+b-r-o-th-e-r b 0 r 1 ah+1 2 dh 3 ax 4 e 4 r 5 //
+b-u-d-g-e-t b 0 ah+1 1 dcl 2 jh 3 ih 4 ax 4 t 5 //
+b-u-t b 0 ah 1 ax 1 ah+1 1 t 2 //
+b-y b 0 ay 1 ay+1 1 //
+c-a-ll k 0 ao+1 1 ao 1 l 2 //
+c-a-ll-s k 0 ao+1 1 ao 1 l 2 z 3 //
+c-a-m-p-ai-gn k 0 ae 1 m 2 p 3 ey+1 4 n 5 //
+c-a-me k 0 ey+1 1 ey 1 m 2 //
+c-a-n k 0 ae 1 ae+1 1 n 2 //
+c-a-r-ee-r k 0 ax 1 r 2 iy+1 3 r 4 //
+c-l-e-r-k k 0 l 1 ah+1 2 ah 2 e 2 r 3 k 4 //
+c-o-ll-ea-gue-s k 0 aa+1 1 l 2 iy 3 g 4 z 5 //
+c-ou-r-se k 0 ao+1 1 ao 1 r 2 s 3 //
+c-ou-r-t k 0 ao+1 1 ao 1 r 2 t 3 //
+c-r-e-d-i-t k 0 r 1 eh+1 2 dx 3 d 3 ih 4 ax 4 t 5 //
+c-r-u-m-bl-i-ng k 0 r 1 ah+1 2 m 3 baxl 4 ih 5 ax 5 ng 6 //
+c-u-rr-e-n-t k 0 ah+1 1 r 2 ax 3 e 3 n 4 t 5 //
+ch-a-r-ge-d ch 0 aa+1 1 aa 1 r 2 djh 3 d 4 //
+ch-ai-r-s ch 0 eh+1 1 eh 1 r 2 z 3 //
+ch-e-ck ch 0 eh+1 1 eh 1 k 2 //
+ch-e-ck-s ch 0 eh+1 1 eh 1 k 2 z 3 //
+ch-ie-f ch 0 iy+1 1 iy 1 f 2 //
+ch-oi-c-e ch 0 oy+1 1 oy 1 s 2 //
+ch-oo-se ch 0 uw+1 1 uw 1 z 2 //
+d-e-c-a-de d 0 eh+1 1 k 2 ey 3 d 4 //
+d-e-f-i-c-i-t d 0 eh+1 1 f 2 ih 3 ax 3 s 4 ih 5 ax 5 t 6 //
+d-e-p-o-l-i-t-i-c-i-z-e d 0 iy+1 1 iy 1 p 2 ax 3 e 3 l 4 ih+1 5 dx 6 t 6 ih 7 ax 7 s 8 ay+1 9 ay 9 z 10 //
+d-e-p-u-t-y d 0 eh+1 1 p 2 yax 3 yuw 3 dx 4 t 4 iy 5 //
+d-e-s-c-r-i-p-ti-o-n d 0 ih 1 ax 1 iy 1 s 2 k 3 r 4 ih+1 5 p 6 sh 7 ax 8 e 8 n 9 //
+d-ea-n d 0 iy+1 1 iy 1 n 2 //
+d-i-d d 0 ih 1 ax 1 ih+1 1 d 2 //
+d-i-s-t-i-ng-u-i-sh-ed d 0 ih 1 ax 1 s 2 t 3 ih+1 4 ng 5 w 6 ih 7 ax 7 sh 8 t 9 //
+d-o-ll-a-r-s d 0 aa+1 1 l 2 ax 3 r 4 z 5 //
+d-u-r-i-ng d 0 ah+1 1 uh+1 1 r 2 ih 3 ax 3 ng 4 //
+e-l-e-v-a-t-e eh+1 0 l 1 ax 2 v 3 ey+1 4 ey 4 t 5 //
+e-x-e-c-u-t-i-v-e ih 0 ax 0 gz 1 eh+1 2 k 3 uw 4 dx 5 t 5 ih 6 ax 6 v 7 //
+e-x-p-e-c-t-e-d eh 0 ax 0 ks 1 p 2 eh+1 3 k 4 t 5 d 5 ih 6 ax 6 d 7 //
+e-x-p-e-c-t-s ax 0 ks 1 p 2 eh+1 3 k 4 t 5 s 6 //
+ea-s-y iy+1 0 z 1 iy 2 //
+ei-gh-t ey+1 0 ey 0 t 2 //
+ei-gh-t-ee-n ey+1 0 ey 0 t 2 iy+1 3 n 4 //
+f-ew f 0 yuw 1 uw+1 1 //
+f-i-v-e f 0 ay+1 1 ay 1 v 2 //
+f-o-ll-o-w f 0 aa+1 1 l 2 ow 3 //
+f-o-r-m-e-r f 0 ao+1 1 r 2 m 3 ax 4 e 4 r 5 //
+f-r-ay f 0 r 1 ey+1 2 ey 2 //
+f-r-o-m f 0 r 1 ah 2 ax 2 ah+1 2 m 3 //
+f-u-l-f-i-ll-e-d f 0 uh 1 l 2 f 3 ih+1 4 l 5 d 7 //
+g-ai-n-s g 0 ey+1 1 ey 1 n 2 z 3 //
+g-i-v-e g 0 ih+1 1 ih 1 v 2 //
+g-r-i-ll-ed g 0 r 1 ih+1 2 ih 2 l 3 d 4 //
+h-a-r-d hh 0 aa+1 1 aa 1 r 2 d 3 //
+h-a-s hh 0 ae 1 ae+1 1 z 2 //
+h-e hh 0 iy 1 iy+1 1 //
+h-ea-d hh 0 eh+1 1 eh 1 d 2 //
+h-i-gh hh 0 ay+1 1 ay 1 //
+h-i-gh-e-s-t hh 0 ay+1 1 ih 3 ax 3 s 4 t 5 //
+h-i-s hh 0 ih 1 ax 1 ih+1 1 z 2 //
+h-ou-s-e-s hh 0 aw+1 1 aw 1 z 2 ih 3 ax 3 z 4 //
+h-ou-s-e-s hh 0 aw+1 1 s 2 ax 3 z 4 //
+h-u-n-d-r-e-d hh 0 ah+1 1 n 2 d 3 r 4 ih 5 ax 5 d 6 //
+i-m-p-o-r-t-a-n-t ih 0 ax 0 m 1 p 2 ao+1 3 r 4 dx 5 t 5 ax 6 n 7 t 8 //
+i-s ih 0 ax 0 ih+1 0 z 1 //
+i-ss-ue-s ih+1 0 sh 1 uw 2 z 3 //
+j-o-b jh 0 aa+1 1 aa 1 b 2 //
+j-u-d-i-ci-a-r-y jh 0 uw 1 d 2 ih+1 3 sh 4 ax 5 e 5 r 6 iy 7 //
+j-u-dg-e-sh-i-p-s jh 0 ah+1 1 jh 2 sh 4 ih 5 ax 5 p 6 s 7 //
+k-ee-p k 0 iy+1 1 iy 1 p 2 //
+l-a-s-t l 0 ae 1 ae+1 1 s 2 t 3 //
+l-aw l 0 ao+1 1 ao 1 //
+l-aw-y-e-r l 0 ao+1 1 y 2 ax 3 e 3 r 4 //
+l-aw-y-e-r-s l 0 ao+1 1 y 2 ax 3 e 3 r 4 z 5 //
+l-ay-p-eo-p-l-e l 0 ey+1 1 p 2 iy+1 3 iy 3 p 4 axl 5 el 5 l 5 //
+l-e-d l 0 eh+1 1 eh 1 d 2 //
+l-e-g-a-l l 0 iy+1 1 g 2 ax 3 e 3 l 4 //
+l-e-g-i-s-l-a-t-i-v-e l 0 eh+1 1 jh 2 ax 3 ih 3 s 4 l 5 ey+1 6 ey 6 dx 7 t 7 ih 8 ax 8 v 9 //
+l-ea-d-e-r l 0 iy+1 1 dx 2 d 2 ax 3 e 3 r 4 //
+l-i-k-e-l-y l 0 ay+1 1 k 2 l 4 iy 5 //
+l-i-t-m-u-s l 0 ih+1 1 t 2 m 3 ax 4 s 5 //
+m-a-d-e m 0 ey+1 1 ey 1 d 2 //
+m-a-k-e-s m 0 ey+1 1 ey 1 k 2 s 4 //
+m-a-n-d-a-t-o-r-y m 0 ae+1 1 n 2 d 3 ax 4 t 5 ao+1 6 ao 6 r 7 iy 8 //
+m-a-n-y m 0 eh+1 1 n 2 nx 2 iy 3 //
+m-a-ss-i-v-e m 0 ae+1 1 s 2 ih 3 ax 3 v 4 //
+m-ay m 0 ey+1 1 ey 1 //
+m-e-m-b-e-r m 0 eh+1 1 m 2 b 3 ax 4 e 4 r 5 //
+m-ea-n-s m 0 iy+1 1 iy 1 n 2 z 3 //
+m-i-ll-i-o-n m 0 ih+1 1 l 2 y 3 ax 4 e 4 n 5 //
+m-o-r-e m 0 ao 1 ao+1 1 r 2 //
+m-o-s-t m 0 ow 1 ow+1 1 s 2 t 3 //
+m-u-ch m 0 ah 1 ax 1 ah+1 1 ch 2 //
+m-u-s-t m 0 ah 1 ax 1 ah+1 1 s 2 t 3 //
+n-a-m-e-d n 0 ey+1 1 ey 1 m 2 d 4 //
+n-e-x-t n 0 eh 1 ax 1 eh+1 1 ks 2 t 3 //
+n-ew n 0 uw+1 1 yuw 1 uw+1 1 uw 1 //
+n-i-n-e n 0 ay+1 1 ay 1 n 2 //
+n-i-n-e-t-ee-n n 0 ay+1 1 ay 1 n 2 t 4 iy+1 5 n 6 //
+n-i-n-e-t-y n 0 ay+1 1 n 2 d 4 iy 5 //
+n-o n 0 ow 1 ow+1 1 //
+n-o-m-i-n-ee-s n 0 aa+1 1 aa 1 m 2 ax 3 e 3 n 4 iy+1 5 z 6 //
+n-o-t n 0 aa 1 aa+1 1 t 2 //
+n-o-w n 0 aw 1 aw+1 1 //
+o-f ah 0 ax 0 ah+1 0 v 1 //
+o-n aa 0 aa+1 0 n 1 //
+o-n-e wah 0 wax 0 wah+1 0 n 1 //
+o-n-l-y ow+1 0 n 1 l 2 iy 3 //
+o-p-i-n-i-o-n-s ax 0 p 1 ih+1 2 n 3 nx 3 y 4 ax 5 e 5 n 6 z 7 //
+o-pp-o-n-e-n-t-s ax 0 p 1 ow+1 2 n 3 nx 3 ax 4 n 5 t 6 s 7 //
+o-r ao 0 ao+1 0 r 1 //
+o-th-e-r ah+1 0 dh 1 ax 2 e 2 r 3 //
+p-a-r-t-i-c-u-l-a-r p 0 ax 1 e 1 r 2 t 3 ih+1 4 k 5 yax 6 e 6 l 7 ax 8 e 8 ax 8 r 9 //
+p-a-ss p 0 ae+1 1 ae 1 s 2 //
+p-l-o-tt-i-ng p 0 l 1 aa+1 2 dx 3 t 3 ih 4 ax 4 ng 5 //
+p-o-l-i-t-i-c-a-l p 0 ax 1 e 1 l 2 ih+1 3 dx 4 t 4 ih 5 ax 5 k 6 ax 7 e 7 l 8 //
+p-o-ss-i-b-l-e p 0 aa+1 1 s 2 ax 3 b 4 axl 5 el 5 //
+p-r-e-s-i-d-e-n-t p 0 r 1 eh+1 2 z 3 ih 4 ax 4 dx 5 d 5 ax 6 e 6 n 7 t 8 //
+p-r-o-g-r-a-m p 0 r 1 ow+1 2 g 3 r 4 ae 5 m 6 //
+p-r-o-m-i-s-e p 0 r 1 aa+1 2 m 3 ih 4 ax 4 s 5 //
+p-u-t p 0 uh+1 1 uh 1 t 2 //
+ph-y-s-i-o-l-o-g-i-c-a-l f 0 ih+1 1 ih 1 z 2 iy 3 ax 4 l 5 aa+1 6 jh 7 ih 8 ax 8 k 9 ax 10 l 11 //
+r-e-t-i-r-e-m-e-n-t r 0 ih 1 ax 1 iy 1 t 2 ay+1 3 ax 3 e 3 r 4 m 6 ax 7 e 7 n 8 t 9 //
+r-e-t-r-ea-t r 0 iy 1 t 2 r 3 iy+1 4 t 5 //
+r-u-n r 0 ah+1 1 ah 1 n 2 //
+s-ay s 0 ey+1 1 ey 1 //
+s-ay-s s 0 eh+1 1 eh 1 z 2 //
+s-c-r-ee-n-i-ng s 0 k 1 r 2 iy+1 3 n 4 nx 4 ih 5 ax 5 ng 6 //
+s-ch-o-l-a-r-sh-i-p s 0 k 1 aa+1 2 l 3 ax 4 e 4 r 5 sh 6 ih+1 7 ih 7 p 8 //
+s-e-c-o-n-d s 0 eh+1 1 k 2 ax 3 e 3 n 4 d 5 //
+s-e-n-i-o-r s 0 iy+1 1 n 2 nx 2 y 3 ax 4 e 4 r 5 //
+s-e-t s 0 eh+1 1 eh 1 t 2 //
+s-e-v-e-n-t-y s 0 eh+1 1 v 2 ax 3 e 3 n 4 t 5 iy 6 //
+s-i-n-c-e s 0 ih 1 ax 1 ih+1 1 n 2 s 3 //
+s-i-x s 0 ih+1 1 ih 1 ks 2 //
+s-t-e-p s 0 t 1 eh+1 2 eh 2 p 3 //
+s-t-i-ck-s s 0 t 1 ih+1 2 ih 2 k 3 s 4 //
+s-u-c-c-e-ss-o-r s 0 ax 1 k 2 s 3 eh+1 4 s 5 ax 6 e 6 r 7 //
+s-w-ee-p-i-ng s 0 w 1 iy+1 2 p 3 ih 4 ax 4 ng 5 //
+s-y-s-t-e-m s 0 ih+1 1 s 2 d 3 t 3 ih 4 ax 4 m 5 //
+t-e-s-t t 0 eh+1 1 eh 1 s 2 t 3 //
+t-i-m-e-s t 0 ay+1 1 ay 1 m 2 z 3 //
+t-o t 0 uw 1 uw+1 1 //
+t-o-p t 0 aa+1 1 aa 1 p 2 //
+t-ou-gh-e-s-t t 0 ah+1 1 f 2 ax 3 s 4 t 5 //
+t-r-a-d-i-ti-o-n t 0 r 1 ax 2 d 3 ih+1 4 sh 5 ax 6 e 6 n 7 //
+t-r-i-a-l t 0 r 1 ay+1 2 ax 3 e 3 l 4 //
+th-a-n dh 0 ae 1 ae+1 1 n 2 //
+th-e dh 0 ax 1 iy 1 iy+1 1 //
+th-e-r-e dh 0 eh+1 1 eh 1 r 2 //
+th-e-s-e dh 0 iy 1 iy+1 1 z 2 //
+th-i-n-k-s th 0 ih+1 1 ih 1 ng 2 k 3 s 4 //
+th-i-ng-s th 0 ih+1 1 ih 1 ng 2 z 3 //
+th-i-r-t-y th 0 ah+1 1 er+1 1 r 2 dx 3 t 3 iy 4 //
+th-r-ee th 0 r 1 iy+1 2 iy 2 //
+u-n-l-i-k-e ah+1 0 ah 0 n 1 l 2 ay+1 3 k 4 //
+u-n-l-i-k-e-l-y ah+1 0 ah 0 n 1 l 2 ay+1 3 k 4 l 6 iy 7 //
+u-p ah 0 ax 0 ah+1 0 p 1 //
+u-s-e yuw+1 0 yuw 0 s 1 //
+u-s-e yuw+1 0 yuw 0 z 1 //
+u-s-e-d yuw 0 yuw+1 0 z 1 d 3 //
+v-a-c-a-n-c-ie-s v 0 ey+1 1 k 2 ax 3 e 3 n 4 s 5 iy 6 z 7 //
+v-i-o-l-e-n-t v 0 ay+1 1 ax 1 el 3 l 3 ax 4 e 4 n 5 n 5 t 6 //
+w-a-s w 0 ah 1 ax 1 ah+1 1 z 2 //
+w-a-t-ch w 0 aa+1 1 aa 1 ch 3 //
+w-a-t-ch-i-ng w 0 aa+1 1 aa 1 ch 3 ih 4 ax 4 ng 5 //
+w-e-ll w 0 eh 1 ax 1 eh+1 1 l 2 //
+w-e-r-e w 0 ah 1 ax 1 e 1 ah+1 1 r 2 //
+w-ee-k w 0 iy+1 1 iy 1 k 3 //
+w-i-d-e w 0 ay+1 1 ay 1 d 2 //
+w-i-d-e-l-y w 0 ay+1 1 d 2 l 4 iy 5 //
+w-i-ll w 0 ih 1 ax 1 ih+1 1 l 2 //
+w-i-th w 0 ih 1 ax 1 ih+1 1 th 2 dh 2 //
+w-o-m-a-n w 0 uh+1 1 m 2 ax 3 e 3 n 4 //
+w-o-n w 0 ah+1 1 ah 1 n 2 //
+w-r-i-s-t-b-a-n-d r 1 ih+1 2 s 3 t 4 b 5 ae+1 6 ae 6 n 7 d 8 //
+wh-e-n w 0 eh 1 ax 1 eh+1 1 n 2 //
+wh-o hh 0 uw 1 uw+1 1 //
+y-ea-r y 0 iy+1 1 iy 1 r 2 //
+y-ea-r-s y 0 iy+1 1 iy 1 r 2 z 3 //

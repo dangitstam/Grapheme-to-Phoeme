@@ -1,0 +1,50 @@
+a-b-ou-t ax 0 b 1 aw+1 2 t 3 //
+a-cc-o-r-d-i-ng ax 0 k 1 ao+1 2 r 3 dx 4 d 4 ih 5 ax 5 ng 6 //
+a-g-r-ee-s ax 0 g 1 r 2 iy+1 3 z 4 //
+a-l-a-r-m ax 0 l 1 aa+1 2 r 3 m 4 //
+a-ll-o-w ax 0 l 1 aw+1 2 //
+a-l-t-e-r-n-a-t-i-v-e ao 0 l 1 t 2 ah+1 3 er+1 3 r 4 n 5 nx 5 ax 6 dx 7 t 7 ih 8 ax 8 v 9 //
+a-l-th-ou-gh ao 0 l 1 dh 2 ow+1 3 //
+a-n-s-w-e-r-s ae+1 0 n 1 s 2 ax 4 e 4 r 5 z 6 //
+a-r-e aa 0 aa+1 0 r 2 //
+A-sh ae+1 0 ae 0 sh 1 //
+a-t ae 0 ae+1 0 t 1 //
+a-tt-a-ch-e-d ax 0 t 1 ae+1 2 ch 3 t 5 //
+b-a-d b 0 ae+1 1 ae 1 d 2 //
+b-e-c-o-m-e b 0 ih 1 ax 1 iy 1 k 2 ah+1 3 m 4 //
+b-e-f-o-r-e b 0 ih 1 ax 1 iy 1 f 2 ao+1 3 ao 3 r 4 //
+b-i-g b 0 ih+1 1 ih 1 g 2 //
+b-r-ea-k-i-ng b 0 r 1 ey+1 2 k 3 ih 4 ax 4 ng 5 //
+b-r-o-th-e-r b 0 r 1 ah+1 2 dh 3 ax 4 e 4 r 5 //
+c-a-ll k 0 ao+1 1 ao 1 l 2 //
+c-a-ll-s k 0 ao+1 1 ao 1 l 2 z 3 //
+c-a-n k 0 ae 1 ae+1 1 n 2 //
+ch-e-ck ch 0 eh+1 1 eh 1 k 2 //
+ch-e-ck-s ch 0 eh+1 1 eh 1 k 2 z 3 //
+d-ea-n d 0 iy+1 1 iy 1 n 2 //
+d-e-p-u-t-y d 0 eh+1 1 p 2 yax 3 yuw 3 dx 4 t 4 iy 5 //
+d-e-s-c-r-i-p-ti-o-n d 0 ih 1 ax 1 iy 1 s 2 k 3 r 4 ih+1 5 p 6 sh 7 ax 8 e 8 n 9 //
+d-i-d d 0 ih 1 ax 1 ih+1 1 d 2 //
+e-x-p-e-c-t-s ax 0 ks 1 p 2 eh+1 3 k 4 t 5 s 6 //
+f-o-r-m-e-r f 0 ao+1 1 r 2 m 3 ax 4 e 4 r 5 //
+h-u-n-d-r-e-d hh 0 ah+1 1 n 2 d 3 r 4 ih 5 ax 5 d 6 //
+m-a-d-e m 0 ey+1 1 ey 1 d 2 //
+n-o-t n 0 aa 1 aa+1 1 t 2 //
+p-r-o-g-r-a-m p 0 r 1 ow+1 2 g 3 r 4 ae 5 m 6 //
+S-u-ch s 0 ah+1 1 ah 1 ch 2 //
+th-i-ng-s th 0 ih+1 1 ih 1 ng 2 z 3 //
+th-i-n-k-s th 0 ih+1 1 ih 1 ng 2 k 3 s 4 //
+Th-o-s-e dh 0 ow 1 ow+1 1 z 2 //
+t-i-m-e-s t 0 ay+1 1 ay 1 m 2 z 3 //
+u-p ah 0 ax 0 ah+1 0 p 1 //
+u-s-e yuw+1 0 yuw 0 s 1 //
+u-s-e yuw+1 0 yuw 0 z 1 //
+u-s-e-d yuw 0 yuw+1 0 z 1 d 3 //
+v-i-o-l-e-n-t v 0 ay+1 1 ax 1 el 3 l 3 ax 4 e 4 n 5 n 5 t 6 //
+w-a-t-ch w 0 aa+1 1 aa 1 ch 3 //
+w-a-t-ch-i-ng w 0 aa+1 1 aa 1 ch 3 ih 4 ax 4 ng 5 //
+w-ee-k w 0 iy+1 1 iy 1 k 3 //
+w-e-ll w 0 eh 1 ax 1 eh+1 1 l 2 //
+wh-o hh 0 uw 1 uw+1 1 //
+w-i-d-e w 0 ay+1 1 ay 1 d 2 //
+w-r-i-s-t-b-a-n-d r 1 ih+1 2 s 3 t 4 b 5 ae+1 6 ae 6 n 7 d 8 //
